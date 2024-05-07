@@ -1,1 +1,22 @@
-
+[
+  {
+    "id": 4,
+    "name": "Alice",
+    "score": 109
+  },
+  {
+    "id": 3,
+    "name": "sonu",
+    "score": 76
+  },
+  {
+    "id": 2,
+    "name": "warish",
+    "score": 56
+  },
+  {
+    "id": 1,
+    "name": "shahbaz",
+    "score": 23
+  }
+]
