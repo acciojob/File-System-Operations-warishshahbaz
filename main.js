@@ -16,7 +16,7 @@ fs.readFile(jsonFilePath, "utf8", (err, data) => {
     name: "Alice",
     score: 109,
   };
-  users.push(newUser); // TODO: Perform the required operations on the users data
+  users.push(newUser);
 
   // Print the total number of users
   console.log(`Total number of users: ${users.length}`);
